@@ -1,3 +1,5 @@
 # Обученная модель для прогнозирования оттока клиентов 
 
-### Ссылка на использование модели в flask: <https://github.com/INI-MED/mindset-model>
+---
+
+Ссылка на использование модели в flask: <https://github.com/INI-MED/mindset-model>
